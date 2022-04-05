@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    margin: 42px;
+}
+
+.banner {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.banner img {
+    width: 20%;
+    height: auto;
+}
+
+.container {
+    margin: 16px;
+    display: flex;
+    justify-content: center;
+}
+
+.container img {
+    margin: 16px;
+    border-radius: 50%;
+    width: 150px;
+}
